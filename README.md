@@ -1,16 +1,45 @@
-# Nest-First (v1.0)
+# Nest-First (v1.1)
 2022.06.03 
 
-## in this branch (v1.0)
+## in this branch (v1.1)
 
 Nest.js + TypeScript:
 
+branch: v1.0
+* [x] `nest `
 * [x] query
 * [x] body
 * [x] params
 * [x] GET 
 * [x] POST
+branch: v1.1
 
+```
+
+// 
+nest g module user
+nest g service prisma --no-spec
+
+// 
+yarn add @prisma/client
+npx prisma init
+
+// after define model 
+npx prisma migrate dev
+npx prisma generate
+
+// (optional)
+npx prisma studio
+
+// configuration
+yarn add @nestjs/config
+
+//
+yarn add @nestjs/passport passport @nestjs/jwt passport-jwt
+yarn add -D @types/passport-jwt
+
+// strategy for safe routes
+```
 
 ## Run
 
