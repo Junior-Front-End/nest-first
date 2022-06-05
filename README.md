@@ -47,13 +47,19 @@ yarn add -D @types/passport-jwt
 
 ## Next Steps
 
-### Courses
+## this Course (v1.1)
+
+available separated videos in Sandis:
+* course: https://www.youtube.com/watch?v=GHTA143_b-s 
+* github: https://github.com/vladwulf/nestjs-api-tutorial
+
+### next Courses
 
 1. [Angular + Nest.js + Docker + RestAPI](https://download.ir/udemy-nestjs-rest-apis-with-docker-a-practical-guide/)
 
 2. [dev.to](https://dev.to/tkssharma/nest-js-advanced-course-coming-up-3ih9)
 
-### Articles
+### next Articles
 
 1. [Fullstack typescript: Prisma + Nestjs + Angular](https://www.prisma.io/blog/full-stack-typesafety-with-angular-nest-nx-and-prisma-CcMK7fbQfTWc)
 
